@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <androidx.constraintlayout.utils.widget.ImageFilterView
+        android:id="@+id/imageFilterView"
+        android:layout_width="412dp"
+        android:layout_height="350dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#211D1D">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="496dp">
+
+                <ImageView
+                    android:id="@+id/imageView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="515dp"
+                    android:layout_gravity="top"
+                    android:src="@drawable/room" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginHorizontal="20dp"
+                    android:layout_marginTop="59dp"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@android:color/transparent"
+                        android:src="@drawable/ic_back" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="127dp"
+                        android:text="Спальня"
+                        android:textColor="#F8F8F8"
+                        android:textSize="17sp" />
+
+                    <ImageButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@android:color/transparent"
+                        android:src="@drawable/ic_bell" />
+
+                </LinearLayout>
+
+            </FrameLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="400dp"
+                android:orientation="horizontal">
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
+
+                    <View
+                        android:id="@+id/view"
+                        android:layout_width="wrap_content"
+                        android:layout_height="150dp"
+                        android:layout_marginRight="12dp"
+                        android:layout_weight="1"
+                        android:background="#282424" />
+
+                    <TextView
+                        android:id="@+id/textView6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="46%"
+                        android:textColor="#F8F8F8"
+                        android:textSize="32dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="16dp"/>
+
+                    <ImageButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_humidity"
+                        android:background="@android:color/transparent"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="120dp"/>
+
+                    <TextView
+                        android:id="@+id/textView7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Увлажнитель воздуха"
+                        android:textColor="#F8F8F8"
+                        android:textSize="12dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="68dp"/>
+
+                    <TextView
+                        android:id="@+id/textView10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Режим 2"
+                        android:textColor="#F8F8F8"
+                        android:textSize="12dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="105dp"/>
+
+                    <Switch
+                        android:id="@+id/switch1"
+                        android:layout_width="50dp"
+                        android:layout_height="26dp"
+                        android:layout_marginLeft="100dp"
+                        android:layout_marginTop="100dp"/>
+
+                </FrameLayout>
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
+
+                    <View
+                        android:id="@+id/view2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="150dp"
+                        android:layout_weight="1"
+                        android:background="#282424" />
+                    <TextView
+                        android:id="@+id/textView8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="87%"
+                        android:textColor="#F8F8F8"
+                        android:textSize="32dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="16dp"/>
+
+                    <ImageButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_clean"
+                        android:background="@android:color/transparent"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="120dp"/>
+
+                    <TextView
+                        android:id="@+id/textView9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Очиститель воздуха"
+                        android:textColor="#F8F8F8"
+                        android:textSize="12dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="68dp"/>
+
+                    <TextView
+                        android:id="@+id/textView11"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Выкл."
+                        android:textColor="#F8F8F8"
+                        android:textSize="12dp"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="105dp"/>
+
+                    <Switch
+                        android:id="@+id/switch2"
+                        android:layout_width="50dp"
+                        android:layout_height="26dp"
+                        android:layout_marginLeft="100dp"
+                        android:layout_marginTop="100dp"/>
+                </FrameLayout>
+
+            </LinearLayout>
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="50dp">
+
+            <View
+                android:id="@+id/view4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#282424" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Уют и функциональность объединены в этом уголке вашего умного дома. Создайте свои собственные сценарии для расслабляющего вечера или энергичного утра прямо здесь, чтобы ваша спальня всегда была именно такой, какой вы хотите."
+                android:textColor="#F8F8F8"
+                android:textSize="16dp"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="16dp"/>
+
+        </FrameLayout>
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
