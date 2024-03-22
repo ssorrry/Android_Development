@@ -14,15 +14,28 @@
     <dimen name="nav_header_vertical_spacing">8dp</dimen>
     <string name="action_settings">Settings</string>
     <string name="app_name">MireaProject</string>
+    <string name="disney_descr_aladin">Aladdin</string>
+    <string name="disney_descr_btn_search">Search</string>
+    <string name="disney_descr_hercules">Hercules</string>
+    <string name="disney_descr_ic_user">Icon User</string>
+    <string name="disney_descr_lady">Lady and the Tramp</string>
+    <string name="disney_descr_lion">The Lion King</string>
+    <string name="disney_descr_logo">Disney Logo</string>
+    <string name="disney_descr_mulan">Mulan</string>
+    <string name="disney_descr_nemo">Finding Nemo</string>
+    <string name="disney_title_h1">Everything</string>
+    <string name="disney_title_h2">You might like</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_brouser">Brouser</string>
     <string name="menu_disney">Disney</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_home">Home</string>
     <string name="menu_slideshow">Slideshow</string>
-    <string name="menu_web">Web</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
     <style name="Theme.MireaProject" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
