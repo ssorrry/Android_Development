@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.mirea.shiyanevskayaag.multiactivity-mergeDebugResources-64:/layout/second_activity.xml",
+        "source": "com.mirea.shiyanevskayaag.multiactivity-main-67:/layout/second_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.multiactivity-mergeDebugResources-64:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.multiactivity-main-67:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.multiactivity-mergeDebugResources-64:\\layout\\second_activity.xml",
+        "source": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.multiactivity-main-67:\\layout\\second_activity.xml"
+    }
+]
