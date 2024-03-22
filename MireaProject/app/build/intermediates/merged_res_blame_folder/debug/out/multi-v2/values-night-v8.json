@@ -4,14 +4,14 @@
             "outputFile": "com.mirea.shiyanevskayaag.mireaproject.app-mergeDebugResources-42:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ar33\\AndroidStudioProjects\\MireaProject\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\ar33\\AndroidStudioProject\\Android_Development\\MireaProject\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "100",
+                        "startOffsets": "102",
                         "endLines": "14",
                         "endColumns": "12",
-                        "endOffsets": "801"
+                        "endOffsets": "815"
                     },
                     "to": {
                         "startLines": "34",

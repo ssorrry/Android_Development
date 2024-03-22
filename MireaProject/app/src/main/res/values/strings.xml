@@ -10,4 +10,20 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_brouser">Brouser</string>
+    <string name="menu_disney">Disney</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="disney_title_h1">Everything</string>
+    <string name="disney_title_h2">You might like</string>
+
+    <string name="disney_descr_ic_user">Icon User</string>
+    <string name="disney_descr_logo">Disney Logo</string>
+    <string name="disney_descr_btn_search">Search</string>
+    <string name="disney_descr_nemo">Finding Nemo</string>
+    <string name="disney_descr_lion">The Lion King</string>
+    <string name="disney_descr_mulan">Mulan</string>
+    <string name="disney_descr_lady">Lady and the Tramp</string>
+    <string name="disney_descr_hercules">Hercules</string>
+    <string name="disney_descr_aladin">Aladdin</string>
 </resources>

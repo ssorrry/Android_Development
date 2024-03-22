@@ -2,6 +2,7 @@
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
     app:startDestination="@+id/nav_home">
 
     <fragment
@@ -21,18 +22,14 @@
         android:name="com.mirea.shiyanevskayaag.mireaproject.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
-
+    <fragment
+        android:id="@+id/nav_brouser"
+        android:name="com.mirea.shiyanevskayaag.mireaproject.FirstFragment"
+        android:label="fragment_first"
+        tools:layout="@layout/fragment_first" />
     <fragment
         android:id="@+id/nav_disney"
-        android:name="com.mirea.shiyanevskayaag.mireaproject.DataFragment"
-        android:label="Disney"
-        tools:layout="@layout/fragment_data"
-        />
-
-    <fragment
-        android:id="@+id/nav_web"
-        android:name="com.mirea.shiyanevskayaag.mireaproject.WebViewFragment"
-        android:label="Web"
-        tools:layout="@layout/fragment_web_view"
-        />
+        android:name="com.mirea.shiyanevskayaag.mireaproject.SecondFragment"
+        android:label="fragment_second"
+        tools:layout="@layout/fragment_second" />
 </navigation>

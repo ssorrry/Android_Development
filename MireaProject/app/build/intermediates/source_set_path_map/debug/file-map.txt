@@ -38,10 +38,10 @@ com.mirea.shiyanevskayaag.mireaproject.app-lifecycle-livedata-core-2.7.0-36 C:\U
 com.mirea.shiyanevskayaag.mireaproject.app-emoji2-1.2.0-37 C:\Users\ar33\.gradle\caches\transforms-3\ea260942d8acadff20549e4d8b1553b4\transformed\emoji2-1.2.0\res
 com.mirea.shiyanevskayaag.mireaproject.app-drawerlayout-1.1.1-38 C:\Users\ar33\.gradle\caches\transforms-3\f334f190f31d9ed5ccf4dcace1573dc2\transformed\drawerlayout-1.1.1\res
 com.mirea.shiyanevskayaag.mireaproject.app-navigation-fragment-2.7.7-39 C:\Users\ar33\.gradle\caches\transforms-3\fdfab6c3aeaa678e975b130e18c504b6\transformed\navigation-fragment-2.7.7\res
-com.mirea.shiyanevskayaag.mireaproject.app-pngs-40 C:\Users\ar33\AndroidStudioProjects\MireaProject\app\build\generated\res\pngs\debug
-com.mirea.shiyanevskayaag.mireaproject.app-resValues-41 C:\Users\ar33\AndroidStudioProjects\MireaProject\app\build\generated\res\resValues\debug
-com.mirea.shiyanevskayaag.mireaproject.app-packageDebugResources-42 C:\Users\ar33\AndroidStudioProjects\MireaProject\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.mirea.shiyanevskayaag.mireaproject.app-packageDebugResources-43 C:\Users\ar33\AndroidStudioProjects\MireaProject\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.mirea.shiyanevskayaag.mireaproject.app-merged_res-44 C:\Users\ar33\AndroidStudioProjects\MireaProject\app\build\intermediates\merged_res\debug
-com.mirea.shiyanevskayaag.mireaproject.app-debug-45 C:\Users\ar33\AndroidStudioProjects\MireaProject\app\src\debug\res
-com.mirea.shiyanevskayaag.mireaproject.app-main-46 C:\Users\ar33\AndroidStudioProjects\MireaProject\app\src\main\res
+com.mirea.shiyanevskayaag.mireaproject.app-pngs-40 C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\build\generated\res\pngs\debug
+com.mirea.shiyanevskayaag.mireaproject.app-resValues-41 C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\build\generated\res\resValues\debug
+com.mirea.shiyanevskayaag.mireaproject.app-packageDebugResources-42 C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.mirea.shiyanevskayaag.mireaproject.app-packageDebugResources-43 C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.mirea.shiyanevskayaag.mireaproject.app-merged_res-44 C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\build\intermediates\merged_res\debug
+com.mirea.shiyanevskayaag.mireaproject.app-debug-45 C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\debug\res
+com.mirea.shiyanevskayaag.mireaproject.app-main-46 C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\res

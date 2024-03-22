@@ -16,15 +16,13 @@
             android:id="@+id/nav_slideshow"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/menu_slideshow" />
-
+        <item
+            android:id="@+id/nav_brouser"
+            android:icon="@drawable/ic_menu_brouser"
+            android:title="@string/menu_brouser" />
         <item
             android:id="@+id/nav_disney"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/ic_menu_disney"
             android:title="@string/menu_disney" />
-
-        <item
-            android:id="@+id/nav_web"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_web" />
     </group>
 </menu>
