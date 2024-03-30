@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="song">SCATTERBRAIN</string>
+    <string name="author">KXLLSWXTCH</string>
+    <string name="first_time">0:29</string>
+    <string name="second_time">1:34</string>
+    <string name="descr_song_cover">Song Cover</string>
+    <string name="descr_back">Back Song</string>
+    <string name="descr_start">Start or pause</string>
+    <string name="descr_next">Next Song</string>
+</resources>

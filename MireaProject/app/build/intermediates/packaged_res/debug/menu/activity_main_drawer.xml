@@ -24,5 +24,9 @@
             android:id="@+id/nav_disney"
             android:icon="@drawable/ic_menu_disney"
             android:title="@string/menu_disney" />
+        <item
+            android:id="@+id/nav_music"
+            android:icon="@drawable/ic_menu_music"
+            android:title="@string/menu_music" />
     </group>
 </menu>

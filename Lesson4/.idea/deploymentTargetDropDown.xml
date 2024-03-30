@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="cryptoloader">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\ar33\.android\avd\Pixel_6_API_34_2.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-03-28T22:31:06.376003100Z" />
+        </State>
+      </entry>
+      <entry key="data_thread">
+        <State />
+      </entry>
+      <entry key="looper">
+        <State />
+      </entry>
+      <entry key="musicplayer">
+        <State />
+      </entry>
+      <entry key="serviceapp">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\ar33\.android\avd\Pixel_6_API_34_2.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-03-29T20:42:54.481659900Z" />
+        </State>
+      </entry>
+      <entry key="thread">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\ar33\.android\avd\Pixel_6_API_34_2.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-03-28T14:34:50.277783500Z" />
+        </State>
+      </entry>
+      <entry key="workmanager">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
