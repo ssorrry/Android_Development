@@ -1365,7 +1365,11 @@ attr yearStyle
 attr yearTodayStyle
 bool abc_action_bar_embed_tabs
 bool abc_config_actionMenuItemAllCaps
+bool enable_system_alarm_service_default
+bool enable_system_foreground_service_default
+bool enable_system_job_service_default
 bool mtrl_btn_textappearance_all_caps
+bool workmanager_test_configuration
 color abc_background_cache_hint_selector_material_dark
 color abc_background_cache_hint_selector_material_light
 color abc_btn_colored_borderless_text_material
@@ -3052,12 +3056,14 @@ drawable ic_menu_brouser
 drawable ic_menu_camera
 drawable ic_menu_disney
 drawable ic_menu_gallery
+drawable ic_menu_music
 drawable ic_menu_slideshow
 drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_search_black_24
+drawable image
 drawable incredibles
 drawable lady
 drawable lion
@@ -3228,6 +3234,7 @@ id app_bar_main
 id arc
 id asConfigured
 id async
+id author
 id auto
 id autoComplete
 id autoCompleteToEnd
@@ -3463,6 +3470,7 @@ id nav_gallery
 id nav_home
 id nav_host_fragment_container
 id nav_host_fragment_content_main
+id nav_music
 id nav_slideshow
 id nav_view
 id navigation_bar_item_active_indicator_view
@@ -3516,9 +3524,11 @@ id pathRelative
 id peekHeight
 id percent
 id pin
+id play_button
 id position
 id postLayout
 id pressed
+id progressBar
 id progress_circular
 id progress_horizontal
 id radio
@@ -3592,6 +3602,7 @@ id startVertical
 id staticLayout
 id staticPostLayout
 id stop
+id stop_button
 id stretch
 id submenuarrow
 id submit_area
@@ -3810,6 +3821,7 @@ layout design_text_input_start_icon
 layout fragment_first
 layout fragment_gallery
 layout fragment_home
+layout fragment_music
 layout fragment_second
 layout fragment_slideshow
 layout m3_alert_dialog
@@ -3880,6 +3892,7 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 navigation mobile_navigation
 plurals mtrl_badge_content_description
+raw music
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -3984,6 +3997,7 @@ string menu_brouser
 string menu_disney
 string menu_gallery
 string menu_home
+string menu_music
 string menu_slideshow
 string mtrl_badge_numberless_content_description
 string mtrl_checkbox_button_icon_path_checked

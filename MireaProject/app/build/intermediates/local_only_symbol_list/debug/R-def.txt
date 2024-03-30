@@ -20,7 +20,9 @@ drawable ic_menu_brouser
 drawable ic_menu_camera
 drawable ic_menu_disney
 drawable ic_menu_gallery
+drawable ic_menu_music
 drawable ic_menu_slideshow
+drawable image
 drawable incredibles
 drawable lady
 drawable lion
@@ -33,6 +35,7 @@ drawable side_nav_bar
 id action_settings
 id aladin
 id app_bar_main
+id author
 id btn_search
 id drawer_layout
 id fab
@@ -49,13 +52,18 @@ id nav_disney
 id nav_gallery
 id nav_home
 id nav_host_fragment_content_main
+id nav_music
 id nav_slideshow
 id nav_view
 id nemo
+id play_button
+id progressBar
+id stop_button
 id textView
 id text_gallery
 id text_home
 id text_slideshow
+id title
 id title1
 id title2
 id toolbar
@@ -66,6 +74,7 @@ layout content_main
 layout fragment_first
 layout fragment_gallery
 layout fragment_home
+layout fragment_music
 layout fragment_second
 layout fragment_slideshow
 layout nav_header_main
@@ -74,6 +83,7 @@ menu main
 mipmap ic_launcher
 mipmap ic_launcher_round
 navigation mobile_navigation
+raw music
 string action_settings
 string app_name
 string disney_descr_aladin
@@ -92,6 +102,7 @@ string menu_brouser
 string menu_disney
 string menu_gallery
 string menu_home
+string menu_music
 string menu_slideshow
 string nav_header_desc
 string nav_header_subtitle
