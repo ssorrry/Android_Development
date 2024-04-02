@@ -1,9 +1,20 @@
 -- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:42:9-50:20
+	android:grantUriPermissions
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:46:13-47
+	android:authorities
+		INJECTED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:44:13-64
+	android:exported
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:43:13-62
 manifest
-ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:2:1-38:12
+ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:2:1-53:12
 MERGED from [androidx.databinding:viewbinding:8.2.2] C:\Users\ar33\.gradle\caches\transforms-3\ce6bd7fe6d879218ec03af7797a8539b\transformed\viewbinding-8.2.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\ar33\.gradle\caches\transforms-3\14796aca05409ba7a2594c7b716442db\transformed\navigation-common-2.7.7\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\ar33\.gradle\caches\transforms-3\6688d9a2f19c0d90cba02e22deda9738\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:17:1-22:12
@@ -74,23 +85,41 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ar33\.g
 		INJECTED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:5:5-85
+	android:required
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:5:58-82
+	android:name
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:5:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:8:22-78
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:5:5-77
+ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:9:5-77
 MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\ar33\.gradle\caches\transforms-3\80ad7de8fe5dbc6c0cb3ea1477bd5c42\transformed\work-runtime-2.8.1\AndroidManifest.xml:26:5-77
 MERGED from [androidx.work:work-runtime:2.8.1] C:\Users\ar33\.gradle\caches\transforms-3\80ad7de8fe5dbc6c0cb3ea1477bd5c42\transformed\work-runtime-2.8.1\AndroidManifest.xml:26:5-77
 	android:name
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:5:22-74
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:9:22-74
 uses-permission#android.permission.POST_NOTIFICATIONS
-ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:6:5-77
+ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:10:5-77
 	android:name
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:6:22-74
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:10:22-74
 uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
-ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:7:5-92
+ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:11:5-92
 	android:name
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:7:22-89
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:11:22-89
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:12:22-68
 application
-ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:9:5-36:19
-INJECTED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:9:5-36:19
+ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:15:5-51:19
+INJECTED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:15:5-51:19
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\ar33\.gradle\caches\transforms-3\7bf998f9f4bdd84f156fbe08c4253964\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\ar33\.gradle\caches\transforms-3\7bf998f9f4bdd84f156fbe08c4253964\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ar33\.gradle\caches\transforms-3\3c6b14974eada3b737e4646addd01d24\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -118,57 +147,63 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ar33\.gradle\cache
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] C:\Users\ar33\.gradle\caches\transforms-3\16088aea6844a21f0ae8707202a192eb\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:22:9-35
 	android:label
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:20:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:18:9-54
 	android:roundIcon
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:15:9-54
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:21:9-54
 	tools:targetApi
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:18:9-29
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:24:9-29
 	android:icon
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:19:9-43
 	android:allowBackup
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:16:9-35
 	android:theme
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:17:9-50
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:23:9-50
 	android:dataExtractionRules
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:11:9-65
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:17:9-65
 service#com.mirea.shiyanevskayaag.mireaproject.PlayerService
-ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:19:9-24:19
+ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:25:9-30:19
 	android:enabled
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:22:13-35
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:28:13-35
 	android:exported
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:23:13-36
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:29:13-36
 	android:foregroundServiceType
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:21:13-58
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:27:13-58
 	android:name
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:20:13-42
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:26:13-42
 activity#com.mirea.shiyanevskayaag.mireaproject.MainActivity
-ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:25:9-35:20
+ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:31:9-41:20
 	android:label
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:28:13-45
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:34:13-45
 	android:exported
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:27:13-36
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:33:13-36
 	android:theme
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:29:13-66
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:35:13-66
 	android:name
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:26:13-41
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:32:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:30:13-34:29
+ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:36:13-40:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:31:17-69
+ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:37:17-69
 	android:name
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:31:25-66
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:37:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:33:17-77
+ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:39:17-77
 	android:name
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:33:27-74
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:39:27-74
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:37:5-66
+ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:52:5-66
 	android:name
-		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:37:22-64
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:52:22-64
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:47:13-49:54
+	android:resource
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:49:17-51
+	android:name
+		ADDED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml:48:17-67
 uses-sdk
 INJECTED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\ar33\AndroidStudioProject\Android_Development\MireaProject\app\src\main\AndroidManifest.xml

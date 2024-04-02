@@ -37,4 +37,19 @@
         android:name="com.mirea.shiyanevskayaag.mireaproject.MusicFragment"
         android:label="fragment_music"
         tools:layout="@layout/fragment_music" />
+    <fragment
+        android:id="@+id/nav_compass"
+        android:name="com.mirea.shiyanevskayaag.mireaproject.CompassFragment"
+        android:label="fragment_compass"
+        tools:layout="@layout/fragment_compass" />
+    <fragment
+        android:id="@+id/nav_note"
+        android:name="com.mirea.shiyanevskayaag.mireaproject.NoteFragment"
+        android:label="fragment_note"
+        tools:layout="@layout/fragment_note" />
+    <fragment
+        android:id="@+id/nav_microphone"
+        android:name="com.mirea.shiyanevskayaag.mireaproject.MicrophoneFragment"
+        android:label="fragment_microphone"
+        tools:layout="@layout/fragment_microphone" />
 </navigation>
