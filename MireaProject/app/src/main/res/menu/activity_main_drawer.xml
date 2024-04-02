@@ -25,8 +25,16 @@
             android:icon="@drawable/ic_menu_disney"
             android:title="@string/menu_disney" />
         <item
-            android:id="@+id/nav_music"
-            android:icon="@drawable/ic_menu_music"
-            android:title="@string/menu_music" />
+            android:id="@+id/nav_compass"
+            android:icon="@drawable/ic_menu_compass"
+            android:title="@string/menu_compass" />
+        <item
+            android:id="@+id/nav_note"
+            android:icon="@drawable/ic_menu_note"
+            android:title="@string/menu_note" />
+        <item
+            android:id="@+id/nav_microphone"
+            android:icon="@drawable/ic_menu_microphone"
+            android:title="@string/menu_microphone" />
     </group>
 </menu>

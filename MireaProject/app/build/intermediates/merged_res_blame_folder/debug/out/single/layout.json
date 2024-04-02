@@ -12,28 +12,16 @@
         "source": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-main-51:\\layout\\fragment_second.xml"
     },
     {
-        "merged": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-mergeDebugResources-48:\\layout\\app_bar_main.xml",
-        "source": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-main-51:\\layout\\app_bar_main.xml"
-    },
-    {
-        "merged": "com.mirea.shiyanevskayaag.mireaproject.app-mergeDebugResources-48:/layout/fragment_music.xml",
-        "source": "com.mirea.shiyanevskayaag.mireaproject.app-main-51:/layout/fragment_music.xml"
-    },
-    {
-        "merged": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-mergeDebugResources-48:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-main-51:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-mergeDebugResources-48:\\layout\\fragment_note.xml",
+        "source": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-main-51:\\layout\\fragment_note.xml"
     },
     {
         "merged": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-mergeDebugResources-48:\\layout\\fragment_gallery.xml",
         "source": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-main-51:\\layout\\fragment_gallery.xml"
     },
     {
-        "merged": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-mergeDebugResources-48:\\layout\\content_main.xml",
-        "source": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-main-51:\\layout\\content_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-mergeDebugResources-48:\\layout\\nav_header_main.xml",
-        "source": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-main-51:\\layout\\nav_header_main.xml"
+        "merged": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-mergeDebugResources-48:\\layout\\fragment_compass.xml",
+        "source": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-main-51:\\layout\\fragment_compass.xml"
     },
     {
         "merged": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-mergeDebugResources-48:\\layout\\fragment_slideshow.xml",
@@ -42,5 +30,25 @@
     {
         "merged": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-mergeDebugResources-48:\\layout\\fragment_first.xml",
         "source": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-main-51:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "com.mirea.shiyanevskayaag.mireaproject.app-mergeDebugResources-48:/layout/fragment_microphone.xml",
+        "source": "com.mirea.shiyanevskayaag.mireaproject.app-main-51:/layout/fragment_microphone.xml"
+    },
+    {
+        "merged": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-mergeDebugResources-48:\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-main-51:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-mergeDebugResources-48:\\layout\\content_main.xml",
+        "source": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-main-51:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-mergeDebugResources-48:\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\ar33\\.gradle\\daemon\\8.2\\com.mirea.shiyanevskayaag.mireaproject.app-main-51:\\layout\\nav_header_main.xml"
     }
 ]
