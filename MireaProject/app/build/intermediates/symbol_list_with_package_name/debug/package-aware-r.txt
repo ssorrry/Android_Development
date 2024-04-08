@@ -3061,6 +3061,7 @@ drawable ic_menu_gallery
 drawable ic_menu_microphone
 drawable ic_menu_music
 drawable ic_menu_note
+drawable ic_menu_profile
 drawable ic_menu_slideshow
 drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
@@ -3255,7 +3256,9 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id btn_search
+id button
 id buttonPanel
+id buttonSave
 id buttonTakePhoto
 id cache_measures
 id callMeasure
@@ -3331,6 +3334,10 @@ id easeInOut
 id easeOut
 id east
 id edge
+id editTextEmail
+id editTextFileContent
+id editTextFileName
+id editTextName
 id editTextNote
 id edit_query
 id elastic
@@ -3343,7 +3350,9 @@ id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
 id fab
+id fabAddFile
 id fade
+id filename
 id fill
 id fill_horizontal
 id fill_vertical
@@ -3475,6 +3484,7 @@ id nav_brouser
 id nav_compass
 id nav_controller_view_tag
 id nav_disney
+id nav_file
 id nav_gallery
 id nav_home
 id nav_host_fragment_container
@@ -3482,6 +3492,7 @@ id nav_host_fragment_content_main
 id nav_microphone
 id nav_music
 id nav_note
+id nav_profile
 id nav_slideshow
 id nav_view
 id navigation_bar_item_active_indicator_view
@@ -3642,6 +3653,8 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
+id textView2
+id textViewTitle
 id text_gallery
 id text_home
 id text_input_end_icon
@@ -3831,13 +3844,16 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout dialog_add_file
 layout fragment_compass
+layout fragment_file
 layout fragment_first
 layout fragment_gallery
 layout fragment_home
 layout fragment_microphone
 layout fragment_music
 layout fragment_note
+layout fragment_profile
 layout fragment_second
 layout fragment_slideshow
 layout m3_alert_dialog
@@ -4012,11 +4028,13 @@ string material_timepicker_text_input_mode_description
 string menu_brouser
 string menu_compass
 string menu_disney
+string menu_file
 string menu_gallery
 string menu_home
 string menu_microphone
 string menu_music
 string menu_note
+string menu_profile
 string menu_slideshow
 string mtrl_badge_numberless_content_description
 string mtrl_checkbox_button_icon_path_checked
