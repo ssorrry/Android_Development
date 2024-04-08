@@ -60,6 +60,7 @@ MERGED from [androidx.core:core:1.9.0] C:\Users\ar33\.gradle\caches\transforms-3
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\ar33\.gradle\caches\transforms-3\776555c2e6532b08913fbad584bd7f3d\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\ar33\.gradle\caches\transforms-3\e40f61943d949492eededa770e60c7bf\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\ar33\.gradle\caches\transforms-3\246ba7b1add3e2e7248bbb3f24b49e2b\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.security:security-crypto:1.0.0] C:\Users\ar33\.gradle\caches\transforms-3\5503b44ed6264bef7b2913bca9d5eb12\transformed\security-crypto-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ar33\.gradle\caches\transforms-3\618cbb17bba8c81668c4dc9604ffc868\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ar33\.gradle\caches\transforms-3\019add5e771534bb68424657ad94cdee\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\ar33\.gradle\caches\transforms-3\ee4b960c809fa992b8a79917482a11b1\transformed\room-runtime-2.5.0\AndroidManifest.xml:17:1-31:12
@@ -298,6 +299,8 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\ar33\.gr
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\ar33\.gradle\caches\transforms-3\e40f61943d949492eededa770e60c7bf\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\ar33\.gradle\caches\transforms-3\246ba7b1add3e2e7248bbb3f24b49e2b\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\ar33\.gradle\caches\transforms-3\246ba7b1add3e2e7248bbb3f24b49e2b\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.security:security-crypto:1.0.0] C:\Users\ar33\.gradle\caches\transforms-3\5503b44ed6264bef7b2913bca9d5eb12\transformed\security-crypto-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.security:security-crypto:1.0.0] C:\Users\ar33\.gradle\caches\transforms-3\5503b44ed6264bef7b2913bca9d5eb12\transformed\security-crypto-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ar33\.gradle\caches\transforms-3\618cbb17bba8c81668c4dc9604ffc868\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ar33\.gradle\caches\transforms-3\618cbb17bba8c81668c4dc9604ffc868\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ar33\.gradle\caches\transforms-3\019add5e771534bb68424657ad94cdee\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
