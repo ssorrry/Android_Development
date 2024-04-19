@@ -32,4 +32,7 @@
     <string name="disney_descr_lady">Lady and the Tramp</string>
     <string name="disney_descr_hercules">Hercules</string>
     <string name="disney_descr_aladin">Aladdin</string>
+
+    <string name="sign_in">Sign in</string>
+    <string name="create_account">Create account</string>
 </resources>
