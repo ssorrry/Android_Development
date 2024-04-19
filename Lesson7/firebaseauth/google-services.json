@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828418392644",
+    "project_id": "task-afeef",
+    "storage_bucket": "task-afeef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828418392644:android:63d13a33b00b4640527211",
+        "android_client_info": {
+          "package_name": "com.mirea.shiyanevskayaag.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkl7_isyjHR8nqsGb2IdMyNv3auPY7lLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

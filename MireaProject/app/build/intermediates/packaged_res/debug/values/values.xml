@@ -14,6 +14,7 @@
     <dimen name="nav_header_vertical_spacing">8dp</dimen>
     <string name="action_settings">Settings</string>
     <string name="app_name">MireaProject</string>
+    <string name="create_account">Create account</string>
     <string name="disney_descr_aladin">Aladdin</string>
     <string name="disney_descr_btn_search">Search</string>
     <string name="disney_descr_hercules">Hercules</string>
@@ -25,6 +26,11 @@
     <string name="disney_descr_nemo">Finding Nemo</string>
     <string name="disney_title_h1">Everything</string>
     <string name="disney_title_h2">You might like</string>
+    <string name="gcm_defaultSenderId" translatable="false">359515177861</string>
+    <string name="google_api_key" translatable="false">AIzaSyAPndiOHmaFfDBE02mpogQaqaemYOfN4BY</string>
+    <string name="google_app_id" translatable="false">1:359515177861:android:34a97fdb188ca1d8e43aec</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAPndiOHmaFfDBE02mpogQaqaemYOfN4BY</string>
+    <string name="google_storage_bucket" translatable="false">mireaproject-60165.appspot.com</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="menu_brouser">Brouser</string>
     <string name="menu_compass">Compass</string>
@@ -42,6 +48,8 @@
     <string name="nav_header_title">Android Studio</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="project_id" translatable="false">mireaproject-60165</string>
+    <string name="sign_in">Sign in</string>
     <style name="Theme.MireaProject" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
