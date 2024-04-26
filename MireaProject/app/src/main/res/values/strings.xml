@@ -18,6 +18,8 @@
     <string name="menu_microphone">Microphone</string>
     <string name="menu_profile">Profile</string>
     <string name="menu_file">Working with files</string>
+    <string name="menu_establishments">Establishments</string>
+
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="disney_title_h1">Everything</string>
