@@ -44,5 +44,9 @@
             android:id="@+id/nav_file"
             android:icon="@drawable/ic_menu_profile"
             android:title="@string/menu_file" />
+        <item
+            android:id="@+id/nav_establishments"
+            android:icon="@drawable/ic_menu_establishments"
+            android:title="@string/menu_establishments" />
     </group>
 </menu>

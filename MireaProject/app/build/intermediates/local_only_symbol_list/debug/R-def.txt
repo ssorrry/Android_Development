@@ -21,6 +21,7 @@ drawable ic_menu_brouser
 drawable ic_menu_camera
 drawable ic_menu_compass
 drawable ic_menu_disney
+drawable ic_menu_establishments
 drawable ic_menu_gallery
 drawable ic_menu_microphone
 drawable ic_menu_music
@@ -63,11 +64,13 @@ id imageViewPhoto
 id lady
 id lion
 id logo
+id mapview
 id mobile_navigation
 id mulan
 id nav_brouser
 id nav_compass
 id nav_disney
+id nav_establishments
 id nav_file
 id nav_gallery
 id nav_home
@@ -107,6 +110,7 @@ layout fragment_file
 layout fragment_first
 layout fragment_gallery
 layout fragment_home
+layout fragment_map
 layout fragment_microphone
 layout fragment_music
 layout fragment_note
@@ -143,6 +147,7 @@ string hello_blank_fragment
 string menu_brouser
 string menu_compass
 string menu_disney
+string menu_establishments
 string menu_file
 string menu_gallery
 string menu_home
